@@ -97,3 +97,18 @@ ENV/
 
 # mypy
 .mypy_cache/
+.DS_Store
+.idea/CV.iml
+.idea/dbnavigator.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+Contests/.DS_Store
+Contests/OTP_bank/.DS_Store
+Contests/OTP_bank/1 OTP Bank Contest - Exploratory Analysis and Data Preprocessing.ipynb
+Contests/OTP_bank/9 OTP Bank Contest - Exploratory Analysis and Data Preprocessing.ipynb
+Contests/OTP_bank/99 OTP Bank Contest - Exploratory Analysis and Data Preprocessing.ipynb
+#Contests/OTP_bank/test.py
+Contests/Tinkoff Data Science Challenge/.DS_Store
+.idea/
+*.csv
